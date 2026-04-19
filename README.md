@@ -34,7 +34,5 @@ Exploratory Data Analysis on the United Nations Global Terrorism Analysis (UNGTA
 3. Open `Global_Terrorism_EDA.ipynb` in Google Colab or Jupyter Notebook
 4. Run all the cells step by step
 
-## 📈 Key Insights
-Will be updated after completing the full EDA.
 
 ---
