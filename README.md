@@ -30,7 +30,7 @@ Exploratory Data Analysis on the United Nations Global Terrorism Analysis (UNGTA
 ## 📁 Project Structure
 ## 🚀 How to Run the Project
 1. Clone this repository
-2. Download the Global Terrorism Database CSV from Kaggle and place it inside the `data/` folder
+2. Download the dataset from the link provided in the Dataset section and place it inside the `data/` folder
 3. Open `Global_Terrorism_EDA.ipynb` in Google Colab or Jupyter Notebook
 4. Run all the cells step by step
 
