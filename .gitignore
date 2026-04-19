@@ -1,0 +1,24 @@
+# Dataset (bahut bada file hai, GitHub pe nahi daalna)
+data/globalterrorismdb_0718dist.csv
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Images folder (optional, agar plots save karoge to)
+images/*.png
+images/*.jpg
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Mac OS junk
+.DS_Store
