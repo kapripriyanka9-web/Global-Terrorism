@@ -34,5 +34,11 @@ Exploratory Data Analysis on the United Nations Global Terrorism Analysis (UNGTA
 3. Open `Global_Terrorism_EDA.ipynb` in Google Colab or Jupyter Notebook
 4. Run all the cells step by step
 
+## 📂 Dataset
+
+Due to file size limitations, the dataset is not uploaded directly to GitHub.
+
+You can access it here:
+👉 [Download Dataset](https://drive.google.com/file/d/1VF7CuOzXqi13tBViqd2QtsWQLRW6b3Hn/view?usp=drive_link)
 
 ---
