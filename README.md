@@ -8,37 +8,21 @@
 ---
 Exploratory Data Analysis on the United Nations Global Terrorism Analysis (UNGTA) / Global Terrorism Database (GTD) using Python, Pandas, Matplotlib & Seaborn.
 
-## 📊 Project Overview
+ *Project Details* 
 - **Dataset**: Global Terrorism Database (~181,000 terrorist incidents)
 - **Time Period**: 1970 to 2017
 - **Objective**: Understand trends, hotspots, attack patterns, and casualties
 
-## 🎯 Key Features Analyzed
+*Key Features* 
 - Attack trends over time
 - Most affected countries and regions
 - Common attack types and weapons
 - Casualties and impact
 - Major perpetrator groups
 
-## 🛠️ Technologies Used
+ *Technologies Used*
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-
-## 📁 Project Structure
-## 🚀 How to Run the Project
-1. Clone this repository
-2. Download the dataset from the link provided in the Dataset section and place it inside the `data/` folder
-3. Open `Global_Terrorism_EDA.ipynb` in Google Colab or Jupyter Notebook
-4. Run all the cells step by step
-
-## 📂 Dataset
-
-Due to file size limitations, the dataset is not uploaded directly to GitHub.
-
-You can access it here:
-👉 [Download Dataset](https://drive.google.com/file/d/1VF7CuOzXqi13tBViqd2QtsWQLRW6b3Hn/view?usp=drive_link)
-
----
