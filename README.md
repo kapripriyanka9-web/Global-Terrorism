@@ -1,4 +1,4 @@
-# Global Terrorism EDA (1970-2017)
+**Global Terrorism EDA (1970-2017)**
 
 **Submitted by:**  
 **Name:** Priyanka  
